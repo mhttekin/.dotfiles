@@ -1,0 +1,12 @@
+[submodule ".tmux/plugins/rose-pine"]
+	path = .tmux/plugins/rose-pine
+	url = https://github.com/rose-pine/tmux
+[submodule ".tmux/plugins/tmux"]
+	path = .tmux/plugins/tmux
+	url = https://github.com/tmux/tmux
+[submodule ".tmux/plugins/tpm"]
+	path = .tmux/plugins/tpm
+	url = https://github.com/tmux-plugins/tpm
+[submodule ".tmux/plugins/vim-tmux-navigator"]
+	path = .tmux/plugins/vim-tmux-navigator
+	url = https://github.com/christoomey/vim-tmux-navigator
